@@ -56,6 +56,10 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
+.letsi p:hover{
+    background: #be1;
+    color: #000000;
+}
 .wrong {
     display:flex;
     justify-content: center;
@@ -75,3 +79,6 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
+.wrong p:hover {
+    background: #ee5555;
+}
